@@ -1,0 +1,22 @@
+{
+    "name": "stylelint-config-pixel",
+    "version": "1.0.0",
+    "description": "Strict Stylelint config for SCSS maintained and used by Pixel Perfect Agency.",
+    "main": "index.js",
+    "author": "Pixel Perfect Agency (https://pixelperfect.agency)",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Willem-Jaap",
+            "url": "https://github.com/Willem-Jaap"
+        }
+    ],
+    "scripts": {},
+    "peerDependencies": {
+        "stylelint": "^15.0.0"
+    },
+    "dependencies": {
+        "stylelint-config-standard-scss": "^7.0.1",
+        "stylelint-order": "^6.0.3"
+    }
+}
