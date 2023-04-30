@@ -21,6 +21,6 @@
         "stylelint-order": "^6.0.3"
     },
     "devDependencies": {
-        "stylelint": "^15.4.0"
+        "stylelint": "^15.6.0"
     }
 }
