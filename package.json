@@ -17,10 +17,10 @@
     },
     "dependencies": {
         "postcss": "^8.4.21",
-        "stylelint-config-standard-scss": "^7.0.1",
+        "stylelint-config-standard-scss": "^9.0.0",
         "stylelint-order": "^6.0.3"
     },
     "devDependencies": {
-        "stylelint": "^15.4.0"
+        "stylelint": "^15.6.0"
     }
 }
