@@ -22,5 +22,10 @@
     },
     "devDependencies": {
         "stylelint": "^15.7.0"
+    },
+    "pnpm": {
+        "overrides": {
+            "nanoid@<3.3.12": "^3.3.12"
+        }
     }
 }
