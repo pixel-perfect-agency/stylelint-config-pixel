@@ -10,8 +10,10 @@ We want to have a strict Stylelint configuration that is consistent across proje
 ## Installation
 
 ```bash
-npm install --save-dev stylelint-config-pixel
+npm install --save-dev stylelint stylelint-config-pixel
 ```
+
+This package needs Stylelint 18 and Node.js 22.22.2, 24.15.0 or newer.
 
 ## Usage
 
